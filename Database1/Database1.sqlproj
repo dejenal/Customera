@@ -68,5 +68,6 @@
     <Build Include="dbo\Tables\Projects.sql" />
     <Build Include="dbo\Views\GetProjects.sql" />
     <Build Include="dbo\Views\GetUsers.sql" />
+    <Build Include="dbo\Tables\DM_RequestSections.sql" />
   </ItemGroup>
 </Project>
